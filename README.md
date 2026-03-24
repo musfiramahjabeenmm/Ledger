@@ -1,4 +1,4 @@
-# MSME Tracker - Full Stack
+# Smart Expense Tracker - Full Stack
 
 This is a full-stack project to manage small businesses using AI agents.
 
