@@ -1,6 +1,6 @@
 # Smart Expense Tracker - Full Stack
 
-This is a full-stack project to manage small businesses using AI agents.
+This is a full-stack project to manage small business.
 
 ## Tech Stack
 - Frontend: React, Tailwind CSS
